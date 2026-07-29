@@ -41,15 +41,8 @@ I build ideas into real, working products — blending clean full-stack engineer
 | [**Event Management System**](https://github.com/alokkgupta28/Event-Management-System) | Event registration platform with full CRUD and admin dashboard | HTML · CSS · JavaScript |
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=alokkgupta28&show_icons=true&hide_border=true" />
-</div>
-
----
+### 💭 Random Dev Quote
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)](https://github.com/PiyushSuthar/github-readme-quotes)
 
 <div align="center">
 
