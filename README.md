@@ -46,9 +46,7 @@ I build ideas into real, working products — blending clean full-stack engineer
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=alokkgupta28&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokkgupta28&layout=compact&hide_border=true" />
-
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=alokkgupta28&show_icons=true&hide_border=true" />
 </div>
 
 ---
