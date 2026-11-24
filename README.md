@@ -18,25 +18,21 @@
 
 ## 📊 GitHub Stats & Trophies
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alokkgupta28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<img width="49%" src="https://streak-stats.demolab.com?user=alokkgupta28&theme=tokyonight&hide_border=true&background=0D1117" />
-
-<br/><br/>
-
-<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokkgupta28&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=alokkgupta28&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alokkgupta28&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" />
-
-</div>
+<p align="center">
+  <img width="480" src="https://github-readme-stats.vercel.app/api?username=alokkgupta28&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=303F60&border_radius=12&title_color=7DCFFF" alt="GitHub statistics" />
+</p>
+<p align="center">
+  <img width="480" src="https://streak-stats.demolab.com?user=alokkgupta28&theme=tokyonight&background=0D1117&border=303F60&border_radius=12" alt="Contribution streak" />
+</p>
+<p align="center">
+  <img width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokkgupta28&theme=tokyonight&layout=compact&bg_color=0D1117&border_color=303F60&border_radius=12&title_color=7DCFFF" alt="Most used languages" />
+</p>
+<p align="center">
+  <img width="700" src="https://github-profile-trophy-kannan.vercel.app/?username=alokkgupta28&theme=algolia&column=3&margin-w=8&margin-h=8" alt="GitHub trophies" />
+</p>
+<p align="center">
+  <img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=alokkgupta28&theme=tokyo-night&bg_color=0D1117&color=7DCFFF&line=7AA2F7&point=BB9AF7&area=true&radius=12" alt="Contribution activity" />
+</p>
 
 ## 🛠️ Languages & Tools
 
@@ -66,7 +62,7 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" alt="nodejs" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="45" alt="express" />
+  <img src="https://cdn.simpleicons.org/express/FFFFFF" width="45" alt="Express.js" />
 </p>
 
 ### Database
@@ -84,7 +80,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" alt="docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="45" alt="kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" alt="amazonwebservices" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" alt="amazonwebservices" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="45" alt="googlecloud" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="45" alt="azure" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="45" alt="jenkins" />
@@ -133,7 +129,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=alokkgupta28&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-<br/><br/>
+<br/>
 
 **Keep Learning. Keep Building. Keep Growing.**
 
