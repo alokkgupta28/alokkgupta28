@@ -104,11 +104,11 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <a href="https://www.linkedin.com/in/alokkgupta28">
     <img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" />
   </a>
   &nbsp;
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="mailto:alokkumargupta863@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png" />
   </a>
   &nbsp;
