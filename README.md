@@ -19,16 +19,19 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img width="480" src="https://github-readme-stats.vercel.app/api?username=alokkgupta28&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=303F60&border_radius=12&title_color=7DCFFF" alt="GitHub statistics" />
+  <img width="100%" src="./cards/signal.svg" alt="Profile Signal" />
 </p>
 <p align="center">
   <img width="480" src="https://streak-stats.demolab.com?user=alokkgupta28&theme=tokyonight&background=0D1117&border=303F60&border_radius=12" alt="Contribution streak" />
 </p>
 <p align="center">
-  <img width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokkgupta28&theme=tokyonight&layout=compact&bg_color=0D1117&border_color=303F60&border_radius=12&title_color=7DCFFF" alt="Most used languages" />
+  <img width="100%" src="./cards/stack.svg" alt="Language Stack" />
 </p>
 <p align="center">
-  <img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=alokkgupta28&theme=tokyo-night&bg_color=0D1117&color=7DCFFF&line=7AA2F7&point=BB9AF7&area=true&radius=12" alt="Contribution activity" />
+  <img width="100%" src="./cards/highlights.svg" alt="Highlights" />
+</p>
+<p align="center">
+  <img width="100%" src="./cards/activity.svg" alt="Contribution Activity" />
 </p>
 
 ## 🛠️ Languages & Tools
